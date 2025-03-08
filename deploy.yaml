@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: devops-app
-        image: manjukolkar007/devops-app:latest
+        image: manjukolkar007/test-dev:latest
         ports:
         - containerPort: 80
 --- 
